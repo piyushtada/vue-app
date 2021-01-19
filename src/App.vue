@@ -1,5 +1,6 @@
 <template>
   <h1> Dc jokers</h1>
+  <h2> Is it working</h2>
   <ul>
     <li v-for="he in dcHeroo" :key="he">  {{he}} </li>
   </ul>
